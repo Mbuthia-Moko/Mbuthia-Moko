@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hello+World!;Mbuthia+here%2C;I+write+and+run+code%2C;go+check+it+out!)](https://git.io/typing-svg)
+
 ### This is what I'm working on👋
 
 
